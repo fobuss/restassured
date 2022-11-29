@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/examples/kotlin-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/kotlin-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/rest-assured-itest-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/rest-assured-itest-java/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/scala-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/scala-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/scala-mock-mvc-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/scala-mock-mvc-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/scalatra-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/scalatra-example/src/main/scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/scalatra-webapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/scalatra-webapp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/spring-mvc-webapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/spring-mvc-webapp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/examples/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json-path/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json-path/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/json-schema-validator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/json-schema-validator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/kotlin-extensions/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/kotlin-extensions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/scala-support/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/scala-support/src/main/scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/spring-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/spring-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/spring-mock-mvc-kotlin-extensions/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/spring-mock-mvc-kotlin-extensions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/spring-mock-mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/spring-mock-mvc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/spring-web-test-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/spring-web-test-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-assured-all/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-assured-all/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-assured-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-assured-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-assured/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest-assured/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xml-path/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xml-path/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

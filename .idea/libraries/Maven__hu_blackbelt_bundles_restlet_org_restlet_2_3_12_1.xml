@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: hu.blackbelt.bundles.restlet:org.restlet:2.3.12_1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/hu/blackbelt/bundles/restlet/org.restlet/2.3.12_1/org.restlet-2.3.12_1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/hu/blackbelt/bundles/restlet/org.restlet/2.3.12_1/org.restlet-2.3.12_1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/hu/blackbelt/bundles/restlet/org.restlet/2.3.12_1/org.restlet-2.3.12_1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-mock-mvc-kotlin-extensions" />
+        <module name="kotlin-example" />
+        <module name="json-schema-validator" />
+        <module name="scalatra-example" />
+        <module name="spring-web-test-client" />
+        <module name="spring-commons" />
+        <module name="scala-mock-mvc-example" />
+        <module name="kotlin-extensions" />
+        <module name="scala-support" />
+        <module name="scalatra-webapp" />
+        <module name="spring-mvc-webapp" />
+        <module name="spring-mock-mvc" />
+        <module name="rest-assured" />
+        <module name="rest-assured-common" />
+        <module name="xml-path" />
+        <module name="rest-assured-itest-java" />
+        <module name="scala-example" />
+        <module name="rest-assured-all" />
+        <module name="json-path" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="example-parent" target="1.8" />
+      <module name="json-path" target="1.8" />
+      <module name="json-schema-validator" target="1.8" />
+      <module name="kotlin-example" target="1.8" />
+      <module name="kotlin-extensions" target="1.8" />
+      <module name="modules" target="1.8" />
+      <module name="rest-assured" target="1.8" />
+      <module name="rest-assured-all" target="1.8" />
+      <module name="rest-assured-common" target="1.8" />
+      <module name="rest-assured-itest-java" target="1.8" />
+      <module name="rest-assured-master" target="1.8" />
+      <module name="scala-example" target="1.8" />
+      <module name="scala-mock-mvc-example" target="1.8" />
+      <module name="scala-support" target="1.8" />
+      <module name="scalatra-example" target="1.8" />
+      <module name="scalatra-webapp" target="1.8" />
+      <module name="spring-commons" target="1.8" />
+      <module name="spring-mock-mvc" target="1.8" />
+      <module name="spring-mock-mvc-kotlin-extensions" target="1.8" />
+      <module name="spring-mvc-webapp" target="1.8" />
+      <module name="spring-web-test-client" target="1.8" />
+      <module name="xml-path" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

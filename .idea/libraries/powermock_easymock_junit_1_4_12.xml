@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="powermock-easymock-junit-1.4.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/scalatra-example/src/main/resources/powermock-easymock-junit-1.4.12.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

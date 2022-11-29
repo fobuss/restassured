@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/examples/example-parent.iml" filepath="$PROJECT_DIR$/examples/example-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json-path/json-path.iml" filepath="$PROJECT_DIR$/json-path/json-path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/json-schema-validator/json-schema-validator.iml" filepath="$PROJECT_DIR$/modules/json-schema-validator/json-schema-validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/kotlin-example/kotlin-example.iml" filepath="$PROJECT_DIR$/examples/kotlin-example/kotlin-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/kotlin-extensions/kotlin-extensions.iml" filepath="$PROJECT_DIR$/modules/kotlin-extensions/kotlin-extensions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/spring-mock-mvc/src/main/main.iml" filepath="$PROJECT_DIR$/modules/spring-mock-mvc/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/spring-web-test-client/src/main/main1.iml" filepath="$PROJECT_DIR$/modules/spring-web-test-client/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json-path/src/main/main2.iml" filepath="$PROJECT_DIR$/json-path/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-assured-common/src/main/main3.iml" filepath="$PROJECT_DIR$/rest-assured-common/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/json-schema-validator/src/main/main4.iml" filepath="$PROJECT_DIR$/modules/json-schema-validator/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/spring-mvc-webapp/src/main/main5.iml" filepath="$PROJECT_DIR$/examples/spring-mvc-webapp/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml-path/src/main/main6.iml" filepath="$PROJECT_DIR$/xml-path/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-assured/src/main/main7.iml" filepath="$PROJECT_DIR$/rest-assured/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-assured/rest-assured.iml" filepath="$PROJECT_DIR$/rest-assured/rest-assured.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-assured-all/rest-assured-all.iml" filepath="$PROJECT_DIR$/rest-assured-all/rest-assured-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-assured-common/rest-assured-common.iml" filepath="$PROJECT_DIR$/rest-assured-common/rest-assured-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/rest-assured-itest-java/rest-assured-itest-java.iml" filepath="$PROJECT_DIR$/examples/rest-assured-itest-java/rest-assured-itest-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/rest-assured-itest-java-osgi/rest-assured-itest-java-osgi.iml" filepath="$PROJECT_DIR$/examples/rest-assured-itest-java-osgi/rest-assured-itest-java-osgi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-assured-master.iml" filepath="$PROJECT_DIR$/rest-assured-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/scala-example/scala-example.iml" filepath="$PROJECT_DIR$/examples/scala-example/scala-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/scala-mock-mvc-example/scala-mock-mvc-example.iml" filepath="$PROJECT_DIR$/examples/scala-mock-mvc-example/scala-mock-mvc-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/scala-support/scala-support.iml" filepath="$PROJECT_DIR$/modules/scala-support/scala-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/scalatra-example/scalatra-example.iml" filepath="$PROJECT_DIR$/examples/scalatra-example/scalatra-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/scalatra-webapp/scalatra-webapp.iml" filepath="$PROJECT_DIR$/examples/scalatra-webapp/scalatra-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/spring-commons/spring-commons.iml" filepath="$PROJECT_DIR$/modules/spring-commons/spring-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/spring-mock-mvc/spring-mock-mvc.iml" filepath="$PROJECT_DIR$/modules/spring-mock-mvc/spring-mock-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/spring-mock-mvc-kotlin-extensions/spring-mock-mvc-kotlin-extensions.iml" filepath="$PROJECT_DIR$/modules/spring-mock-mvc-kotlin-extensions/spring-mock-mvc-kotlin-extensions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/spring-mvc-webapp/spring-mvc-webapp.iml" filepath="$PROJECT_DIR$/examples/spring-mvc-webapp/spring-mvc-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/spring-web-test-client/spring-web-test-client.iml" filepath="$PROJECT_DIR$/modules/spring-web-test-client/spring-web-test-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml-path/src/test/test.iml" filepath="$PROJECT_DIR$/xml-path/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/spring-mock-mvc/src/test/test1.iml" filepath="$PROJECT_DIR$/modules/spring-mock-mvc/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-assured/src/test/test2.iml" filepath="$PROJECT_DIR$/rest-assured/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/spring-web-test-client/src/test/test3.iml" filepath="$PROJECT_DIR$/modules/spring-web-test-client/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/json-schema-validator/src/test/test4.iml" filepath="$PROJECT_DIR$/modules/json-schema-validator/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-assured-common/src/test/test5.iml" filepath="$PROJECT_DIR$/rest-assured-common/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/spring-mvc-webapp/src/test/test6.iml" filepath="$PROJECT_DIR$/examples/spring-mvc-webapp/src/test/test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json-path/src/test/test7.iml" filepath="$PROJECT_DIR$/json-path/src/test/test7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml-path/xml-path.iml" filepath="$PROJECT_DIR$/xml-path/xml-path.iml" />
+    </modules>
+  </component>
+</project>
