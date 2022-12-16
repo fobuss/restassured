@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Disabled">
+        <module name="kotlin-example" />
+        <module name="spring-mock-mvc-kotlin-extensions" />
+        <module name="json-schema-validator" />
+        <module name="scala-mock-mvc-example" />
+        <module name="scalatra-example" />
+        <module name="spring-commons" />
+        <module name="spring-web-test-client" />
+        <module name="kotlin-extensions" />
+        <module name="modules" />
+        <module name="scala-support" />
+        <module name="scalatra-webapp" />
+        <module name="spring-mvc-webapp" />
+        <module name="spring-mock-mvc" />
+        <module name="rest-assured-common" />
+        <module name="rest-assured" />
+        <module name="xml-path" />
+        <module name="rest-assured-itest-java" />
+        <module name="example-parent" />
+        <module name="scala-example" />
+        <module name="rest-assured (1)" />
+        <module name="rest-assured-all" />
+        <module name="json-path" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
